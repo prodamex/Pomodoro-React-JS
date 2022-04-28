@@ -4,5 +4,5 @@
 <b><i>Dans le cadre des études - Licence pro UPMC.</i></b>
 <hr>
 Fonctionnalités développé :<br><br>
-✅  Possibilité d'incrémentation et décrémentation de temps de travail 
+✅  Possibilité d'incrémentation et décrémentation de temps de travail <br>
 ✅  Possibilité d'incrémentation et décrémentation de temps de repos.
